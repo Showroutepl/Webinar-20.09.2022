@@ -12,7 +12,7 @@ Materiały do webinaru w ramach cyklu Władcy Sieci
 
 
 # Narzędzia potrzebne każdemu adminowy pracujcemu z BGP 🧰
-(podobne narzędzia pojawiają się co jakiś czas w naszym newsleterze)
+__(podobne narzędzia pojawiają się co jakiś czas w naszym [newsletterze](https://showroute.pl/netprasowka))__
 
 https://lg.twelve99.net/ - looking glass operatora Tier 1 (taki który nie płaci za dostęp do Internetu). Mamy dostęp do prawie wszystkich węzłów sieci. Od Europy poprzez Azję aż do obu Ameryk. Cały Internet.<br />
 https://lg.atman.pl/ - looking glass polskiego operatora usług biznesowych i data center.<br />
