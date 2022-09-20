@@ -7,10 +7,6 @@ Materiały do webinaru w ramach cyklu Władcy Sieci
 
 
 
-
-
-
-
 # Narzędzia potrzebne każdemu adminowi pracującemu z BGP 🧰
 __(podobne narzędzia pojawiają się co jakiś czas w naszym [newsletterze](https://showroute.pl/netprasowka))__
 
